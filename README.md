@@ -35,12 +35,12 @@ Once installed and launched the command prompt will
 walk you through by asking questions
 After they are all answered the README is generated
 
-![Video](./images/start.gif)
-![Video](./images/InProcess_1.gif)
-![Video](./images/Links.gif)
-![Video](./images/License.gif)
-![Video](./images/README_Gen.gif)
-![Video](./images/FinalReadMe.gif)
+![Video](./src/images/start.gif)
+![Video](./src/images/InProcess_1.gif)
+![Video](./src/images/Links.gif)
+![Video](./src/images/License.gif)
+![Video](./src/images/README_Gen.gif)
+![Video](./src/images/FinalReadMe.gif)
 
 
 ## Credits
