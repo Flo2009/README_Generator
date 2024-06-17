@@ -23,8 +23,8 @@ forgotten on the way and insures the high quality.
 
 The Installation steps are:
 Get the App from my GitHub (link to the repo is below)
-Put it in your project folder and cd into it
-Once done with the work run "npm install"
+Put it in your project folder and cd into the src folder 
+Once done with the this run "npm install" 
 Then run node index.js
 
 
@@ -32,8 +32,11 @@ Then run node index.js
 ## Usage
 
 Once installed and launched the command prompt will
-walk you through by asking questions
-After they are all answered the README is generated
+walk you through by asking questions.
+Note that for the descriptions a text editor will
+open up. You can pre-set which ever you prefer in your system.
+After you answered all questions the README is generated
+with the name you gave it. The videos below will demonstrate the usage.
 
 ![Video](./src/images/start.gif)
 ![Video](./src/images/InProcess_1.gif)
