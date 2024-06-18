@@ -76,7 +76,8 @@ https://github.com/Flo2009
 supersuse81@gmail.com
 
 ## Tests
+This is the link to a video that fully explains the application:
 
-So far no tests have been generated
+https://app.screencastify.com/v3/watch/V9AnyoxNzZB57klfxXB5
 
 
